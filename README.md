@@ -1,4 +1,5 @@
 🚀 Arisan Digital API
+
 🎯 Deskripsi Proyek
 Proyek Arisan Digital API adalah backend service yang dirancang untuk mengelola kelompok arisan (tabungan bergilir) secara digital. 
 Dibangun menggunakan Spring Boot 3 dengan arsitektur (Clean Architecture / Hexagonal) untuk memisahkan logika bisnis (Domain) dari detail implementasi (Infrastructure).
